@@ -108,17 +108,11 @@ const styles = StyleSheet.create({
     paddingHorizontal: 40,
     borderWidth: 0,
     borderRadius: 25,
-    // fontSize: 16,
-    // color: '#FFFFFF',
-    // fontWeight: '700',
-    // textTransform: 'uppercase',
-    // marginVertical: 10,
-    // backgroundColor: 'linear-gradient(to right, #330000, #feb47b)', // Gradient effect
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 4 },
     shadowOpacity: 0.2,
     shadowRadius: 4,
-    elevation: 10, // For Android
+    elevation: 10,
   },
   rollDiceBtnText: {
     fontSize: 18,
